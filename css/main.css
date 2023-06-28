@@ -103,3 +103,19 @@ section h2 {
 #economy .articles article a {
     background-color: #ff9f1a;
 }
+
+#Carros {
+    background-color: lightslategray;
+}
+
+#Carros .articles article a {
+    background-color: darkslateblue;
+}
+
+#Musk {
+    background-color: indigo;
+}
+
+#Musk .articles article a {
+    background-color: darkblue;
+}
